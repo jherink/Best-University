@@ -12,6 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="Properties\PublishProfiles\BestUniversity - Web Deploy.pubxml" />
+    <None Remove="Properties\PublishProfiles\BestUniversityAPI - FTP.pubxml" />
+    <None Remove="Properties\PublishProfiles\BestUniversityAPI - Web Deploy.pubxml" />
     <None Remove="Properties\PublishProfiles\DemoAPI - Web Deploy.pubxml" />
     <None Remove="Properties\PublishProfiles\DemoAPI20171212112503 - Web Deploy.pubxml" />
   </ItemGroup>

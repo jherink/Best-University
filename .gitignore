@@ -8,3 +8,8 @@
 /Demo.Buisness/obj
 /Demo.DTO/obj
 /Demo.DataAccess/obj
+/Demo.API/bin
+/Demo.Buisness/bin/Debug/netcoreapp2.0
+/Demo.Buisness/bin/Release/netcoreapp2.0
+/Demo.DataAccess/bin
+/Demo.DTO/bin
